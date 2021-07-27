@@ -1,0 +1,33 @@
+.cart
+{
+    width:90%;
+    margin-left: 5%;
+    margin-top: 30px;
+    display: table;
+    border-radius:5px;
+    background:#404040;
+    /* background: red; */
+}
+table{
+    /* background:red; */
+    margin: 10px;
+    margin-left:30px ;
+    width:50%;
+    align-items: center;
+    display:table;
+}
+table th{
+    color: white;
+    font-size: 18px;
+    text-align: center ;
+    padding:15px;
+}
+table td{
+    color: white;
+    text-align: center ;
+    padding:10px;
+}
+table td:hover{
+    color: white;
+    /* cursor:; */
+} 

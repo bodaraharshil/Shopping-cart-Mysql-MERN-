@@ -1,0 +1,33 @@
+.sidebar{
+    width:18%;
+    /* position: absolute; */
+    height:100vh;
+    float:'left';
+    background:#4e73df;
+}
+.admin{
+    width:15vw;
+    height:8vh;
+    margin-top: 20px;
+    margin-left: 25px;
+    background:#4e73df;
+    border-bottom:2px solid white;
+}
+
+.bar-nav{
+    width:10vw;
+    height:8vh;
+    margin-left: 75px;
+    /* background: red; */
+    background:#4e73df;
+    border-bottom:2px solid #D1D1D1;   
+}
+.header{
+    width:81%;
+    height:7vh;
+    margin-left:1vh;
+    border-radius: 5px;
+    background:#d1d1d1;
+    /* background: red; */
+    float: left;
+}

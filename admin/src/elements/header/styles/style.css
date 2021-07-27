@@ -1,0 +1,12 @@
+.search{
+    /* background:red; */
+    width:100vw;
+    display: table;
+}
+.search input{
+    width:400px;
+    margin: 15px;
+    line-height:30px;
+    border-radius: 5px;
+    outline: 0;
+}

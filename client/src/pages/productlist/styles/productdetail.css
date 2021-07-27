@@ -1,0 +1,52 @@
+.product-image
+{
+    width: 25%;
+    float:left;
+    margin-left: 40px;
+    height: 400px;
+}
+
+.product-im{
+    /* background: green; */
+    height: 400px;
+    width: 90%;
+    border-radius: 10px;
+}
+
+.product-detail{
+    /* background: green;   */
+    width: 30%;
+    margin-left: 100px;
+    float: left;
+    height: 500px;
+}
+.productname
+{
+    width: 80%;
+    height: 40px;
+    margin: 5%;
+    /* background:red; */
+}
+.discription{
+    /* background:blue; */
+    width:80%;
+    margin-left: 20px;
+    /* height:100px; */
+    display:table;
+}
+.bo{
+    background:black;
+    float: left;
+    width: 70%;
+    margin-top: 40px;
+    margin-left: 80px;
+    border-bottom: 2px solid green;
+}
+.comment{
+    width: 70%;
+    /* background:red  ; */
+    float: left;
+    margin-top: 40px;
+    height: 280px;
+    margin-left: 80px;
+}

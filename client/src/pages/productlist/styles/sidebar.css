@@ -1,0 +1,30 @@
+.sidebar{
+    background:#333;
+    width: 18%;
+    /* margin: 20px; */
+    margin-left:20px;
+    display:table;
+    border-radius: 10px;
+}
+table{
+    /* background:red; */
+    margin: 10px;
+    margin-left:50px ;
+    max-width:80%;
+    align-items: right;
+    display:table;
+}
+table th{
+    color: white;
+    text-align: center ;
+    padding:15px;
+}
+table td{
+    color: white;
+    text-align: center ;
+    padding:10px;
+}
+table td:hover{
+    color:orangered;
+    cursor: pointer;
+}
